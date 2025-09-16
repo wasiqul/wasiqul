@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 Wasiqul here
 
+
+- 🔭 I’m currently working on Playwright
+- 🌱 I’m currently learning TypeScript
 <!--
 **wasiqul/wasiqul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
